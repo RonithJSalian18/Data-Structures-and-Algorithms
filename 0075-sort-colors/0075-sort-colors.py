@@ -1,13 +1,16 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
+        l, r = 0, len(nums) - 1
+        i = 0
 
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i] > nums[j]:
-                    nums[i], nums[j] = nums[j], nums[i]
-        
+        while i <= r:
+            if nums[i] == 0:
+                nums[l], nums[i] = nums[i], nums[l]
+                l += 1
+            elif nums[i] == 2:
+                nums[r], nums[i] = nums[i], nums[r]
+                r -= 1
+                i -= 1
+            i += 1        
         
         
