@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
