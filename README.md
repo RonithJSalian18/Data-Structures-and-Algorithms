@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
