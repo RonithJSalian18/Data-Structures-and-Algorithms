@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 ## Combinatorics
@@ -119,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
