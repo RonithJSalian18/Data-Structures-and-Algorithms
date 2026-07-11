@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 ## Sorting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 ## Two Pointers
@@ -140,9 +143,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
