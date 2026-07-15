@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
 | ------- |
@@ -174,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
