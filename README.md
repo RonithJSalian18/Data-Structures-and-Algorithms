@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
@@ -211,10 +214,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
