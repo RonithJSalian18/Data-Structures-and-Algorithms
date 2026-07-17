@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
