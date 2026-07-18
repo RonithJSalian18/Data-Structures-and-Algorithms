@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0595-big-countries) |
