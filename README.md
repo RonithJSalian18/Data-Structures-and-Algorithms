@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 ## Matrix
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1934-confirmation-rate) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
