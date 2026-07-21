@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
+| [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
@@ -170,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
