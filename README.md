@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
