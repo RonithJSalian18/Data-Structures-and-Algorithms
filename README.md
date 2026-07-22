@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1193-monthly-transactions-i) |
