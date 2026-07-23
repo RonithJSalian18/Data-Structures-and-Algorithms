@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
