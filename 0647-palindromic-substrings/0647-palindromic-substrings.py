@@ -3,9 +3,17 @@ class Solution:
         res = 0
 
         for i in range(len(s)):
-            for j in range(i, len(s)):
-                cur = s[i:j + 1]
-                if cur == cur[::-1]:
-                    res += 1
+            l = r = i
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                res += 1
+                l -= 1
+                r += 1
+
+            l = i
+            r = i + 1
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                res += 1
+                l -= 1
+                r += 1
 
         return res
