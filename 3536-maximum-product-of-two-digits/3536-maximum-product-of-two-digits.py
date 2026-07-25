@@ -1,12 +1,13 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
         nums = list(str(n))
-        maxx = 0
+        nums = [-int(n) for n in nums]
+        heapq.heapify(nums)
 
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                product = int(nums[i]) * int(nums[j])
-                maxx = max(maxx, product)
+        n1 = heapq.heappop(nums)
+        n2 = heapq.heappop(nums)
+        print(n1, n2)
+        return n1 * n2
 
-        return maxx
+
         
