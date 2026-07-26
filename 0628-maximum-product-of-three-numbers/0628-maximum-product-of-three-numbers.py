@@ -1,13 +1,8 @@
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:
         nums.sort()
-        maxi = float('-inf')
-        n = len(nums)
 
-        for i in range(n - 3, n):
-            prod = 1
-            for d in range(3):
-                prod *= nums[(i + d) % n]
-            maxi = max(maxi, prod)
+        candidate1 = nums[-1] * nums[-2] * nums[-3]
+        candidate2 = nums[0] * nums[1] * nums[-1]
 
-        return maxi
+        return max(candidate1, candidate2)
