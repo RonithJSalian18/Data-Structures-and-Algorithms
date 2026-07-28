@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
+| [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+| [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
