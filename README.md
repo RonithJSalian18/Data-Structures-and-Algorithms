@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
