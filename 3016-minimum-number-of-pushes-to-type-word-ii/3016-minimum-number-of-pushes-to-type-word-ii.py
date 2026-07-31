@@ -8,17 +8,12 @@ class Solution:
             else:
                 hashMap[ch] += 1
 
-        sortedDict = dict(sorted(hashMap.items(), key=lambda x: x[1], reverse=True))
-        
+        sortedFreq = sorted(hashMap.values(), reverse=True)
+
         res = 0
-        count = 0
 
-        for char, freq in sortedDict.items():
-            add = count // 8 + 1
-
-            while freq > 0:
-                res += add
-                freq -= 1
-            count += 1
+        for i, freq in enumerate(sortedFreq):
+            presses = i // 8 + 1
+            res += presses * freq
 
         return res
