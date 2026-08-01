@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
