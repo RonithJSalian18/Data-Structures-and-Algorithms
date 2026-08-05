@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0595-big-countries) |
