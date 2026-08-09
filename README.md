@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+| [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
+| [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
+| [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
