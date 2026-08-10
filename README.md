@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0473-matchsticks-to-square](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -314,11 +316,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0473-matchsticks-to-square) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
