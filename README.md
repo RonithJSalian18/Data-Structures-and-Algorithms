@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
