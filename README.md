@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
