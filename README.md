@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1701-average-waiting-time](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1701-average-waiting-time) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1701-average-waiting-time](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1701-average-waiting-time) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
