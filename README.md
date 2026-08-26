@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
