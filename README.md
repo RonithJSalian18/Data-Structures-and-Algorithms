@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
