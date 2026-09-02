@@ -3,11 +3,11 @@ class Solution:
         res = []
 
         def backtrack(i, cur, score):
-            if score == n and cur[:] not in res and len(cur) == k:
+            if score == n and len(cur) == k:
                 res.append(cur[:])
                 return
 
-            if i > 9 or score > n:
+            if i > 9 or score > n or len(cur) == k:
                 return
 
             cur.append(i)
