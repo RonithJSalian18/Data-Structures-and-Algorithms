@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3903-smallest-stable-index-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3903-smallest-stable-index-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
