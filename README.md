@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
