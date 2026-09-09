@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -530,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
