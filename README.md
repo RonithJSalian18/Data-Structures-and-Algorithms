@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0802-find-eventual-safe-states) |
+| [1791-find-center-of-star-graph](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
