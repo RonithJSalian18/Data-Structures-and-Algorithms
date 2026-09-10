@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
