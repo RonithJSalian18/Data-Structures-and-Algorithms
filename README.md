@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
