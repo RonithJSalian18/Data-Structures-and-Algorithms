@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2766-relocate-marbles](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2766-relocate-marbles) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
+| [2766-relocate-marbles](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2766-relocate-marbles) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2766-relocate-marbles](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2766-relocate-marbles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-average-waiting-time](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1701-average-waiting-time) |
+| [2766-relocate-marbles](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2766-relocate-marbles) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
