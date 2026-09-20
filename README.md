@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3805-count-caesar-cipher-pairs) |
 ## Sliding Window
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1701-average-waiting-time](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1701-average-waiting-time) |
 | [2766-relocate-marbles](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2766-relocate-marbles) |
+| [3498-reverse-degree-of-a-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
