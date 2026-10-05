@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
@@ -561,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
