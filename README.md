@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2766-relocate-marbles](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2766-relocate-marbles) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RonithJSalian18/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
